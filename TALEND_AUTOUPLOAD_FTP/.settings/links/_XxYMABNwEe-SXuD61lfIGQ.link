@@ -1,0 +1,17 @@
+{
+  "itemId" : "_XxYMABNwEe-SXuD61lfIGQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_CP8vcBOzEe-jQJ6-2vSgZw",
+    "parameterList" : [ {
+      "id" : "_X2_wYROzEe-jQJ6-2vSgZw",
+      "name" : "FTP_PORT"
+    }, {
+      "id" : "_X2_wYBOzEe-jQJ6-2vSgZw",
+      "name" : "Server"
+    }, {
+      "id" : "_X2_wYhOzEe-jQJ6-2vSgZw",
+      "name" : "SSH_PORT"
+    } ]
+  } ]
+}

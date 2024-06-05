@@ -1,1 +1,191 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_-8-5wBN5Ee-SXuD61lfIGQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_8ubzsBaaEe2RTvIl5BAsIg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Aa908BTcEe2RTvIl5BAsIg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "myroutines",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_-8-5wBN5Ee-SXuD61lfIGQ",
+    "version" : "0.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_8ubzsBaaEe2RTvIl5BAsIg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Aa908BTcEe2RTvIl5BAsIg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "myroutines",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_0-hcABO6Ee-jQJ6-2vSgZw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_CP8vcBOzEe-jQJ6-2vSgZw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "AUTO_FILEUPLOAD_FTP:_2kSfkBNwEe-SXuD61lfIGQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_8ubzsBaaEe2RTvIl5BAsIg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "myroutines",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_8ubzsBaaEe2RTvIl5BAsIg - directories_conf",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_2kSfkBNwEe-SXuD61lfIGQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_CP8vcBOzEe-jQJ6-2vSgZw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_8ubzsBaaEe2RTvIl5BAsIg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Aa908BTcEe2RTvIl5BAsIg",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_C_0-YBTcEe2RTvIl5BAsIg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Aa908BTcEe2RTvIl5BAsIg",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_JR4yUBTcEe2RTvIl5BAsIg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_aDsKsAZ6Ee2MpYBFZnP3yw",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_NP7aoBacEe2RTvIl5BAsIg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_8ubzsBaaEe2RTvIl5BAsIg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Aa908BTcEe2RTvIl5BAsIg",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_TaHhcBabEe2RTvIl5BAsIg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "VISMA:_NP7aoBacEe2RTvIl5BAsIg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_8ubzsBaaEe2RTvIl5BAsIg",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_XxYMABNwEe-SXuD61lfIGQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_CP8vcBOzEe-jQJ6-2vSgZw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "AUTO_FILEUPLOAD_FTP:_-8-5wBN5Ee-SXuD61lfIGQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_8ubzsBaaEe2RTvIl5BAsIg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "myroutines",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_8ubzsBaaEe2RTvIl5BAsIg - directories_conf",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_dIHmEBKSEe-nnouunl5u2A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_8ubzsBaaEe2RTvIl5BAsIg",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+} ]

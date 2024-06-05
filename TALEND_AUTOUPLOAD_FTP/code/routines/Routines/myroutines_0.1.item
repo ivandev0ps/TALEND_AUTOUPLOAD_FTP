@@ -1,0 +1,14 @@
+package routines;
+
+import java.util.regex.Pattern;
+
+public class myroutines {
+
+    public static String replaceBackSlash(String message) { 
+        return message.replaceAll(Pattern.quote("\\"),"&");
+    }
+    
+    public static String replaceBackSlashforQuery(String message) { 
+        return message.replace("\\","\\\\");
+    }
+}
