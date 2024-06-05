@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_06gWcSNXEe-cldVdlz5Guw" label="TALEND_AUTOUPLOAD_FTP" description="Autoupload ftp utility" language="java" technicalLabel="TALEND_AUTOUPLOAD_FTP" author="_06gWciNXEe-cldVdlz5Guw" productVersion="Talend Cloud Data Management Platform-8.0.1.20240418_1105-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/ivandev0ps/TALEND_AUTOUPLOAD_FTP.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_07kGYCNXEe-cldVdlz5Guw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_06gWciNXEe-cldVdlz5Guw" login="ivan.vite.devops@trial30086.eu.talend.com" firstName="Ivan" lastName="Vite Rodriguez" type="DQ"/>
+</xmi:XMI>
