@@ -96,17 +96,6 @@
   } ]
 }, {
   "baseItem" : {
-    "id" : "_C_0-YBTcEe2RTvIl5BAsIg",
-    "version" : "0.1",
-    "type" : "job"
-  },
-  "relatedItems" : [ {
-    "id" : "_Aa908BTcEe2RTvIl5BAsIg",
-    "version" : "Latest",
-    "type" : "property"
-  } ]
-}, {
-  "baseItem" : {
     "id" : "_JR4yUBTcEe2RTvIl5BAsIg",
     "version" : "0.1",
     "type" : "job"
@@ -176,16 +165,5 @@
     "id" : "_8ubzsBaaEe2RTvIl5BAsIg - directories_conf",
     "version" : "Latest",
     "type" : "schema"
-  } ]
-}, {
-  "baseItem" : {
-    "id" : "_dIHmEBKSEe-nnouunl5u2A",
-    "version" : "0.1",
-    "type" : "job"
-  },
-  "relatedItems" : [ {
-    "id" : "_8ubzsBaaEe2RTvIl5BAsIg",
-    "version" : "Latest",
-    "type" : "property"
   } ]
 } ]
